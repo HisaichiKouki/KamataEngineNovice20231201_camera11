@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KamataEngineNovice20231201_camera11", "KamataEngineNovice20231201_camera11.vcxproj", "{A44AB01D-42F2-4946-85F2-284AFCB29DD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A44AB01D-42F2-4946-85F2-284AFCB29DD5}.Debug|x64.ActiveCfg = Debug|x64
+		{A44AB01D-42F2-4946-85F2-284AFCB29DD5}.Debug|x64.Build.0 = Debug|x64
+		{A44AB01D-42F2-4946-85F2-284AFCB29DD5}.Release|x64.ActiveCfg = Release|x64
+		{A44AB01D-42F2-4946-85F2-284AFCB29DD5}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29CE4C9E-6304-42A5-8A59-2ABC49C2EB5E}
+	EndGlobalSection
+EndGlobal
